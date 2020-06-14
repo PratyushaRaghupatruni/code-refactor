@@ -1,6 +1,6 @@
 # assignment-1
 
-Title of the websire:Horiseon
+Title of the website:Horiseon
 
 Description: Horiseon is a one stop website for Search engine optimization, Online reputation management and Social Marketing needs. With varied options in the world of social media emergence its hard to pick a right solution.  Horiseon provides lead generation and brand generation in an optimal and cost effective way. 
 
@@ -24,8 +24,8 @@ Modifications of css:
 2. grouped all the sections of img into one category instead of seperate sections
    for ex:
        .search-engine-optimization img,.online-reputation-management img,.social-media-marketing img {
-    max-height: 200px;
-}
+          max-height: 200px;
+        }
 3. deleted all the unwanted styles.
 
 
