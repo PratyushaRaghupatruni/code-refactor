@@ -7,17 +7,17 @@ Description: Horiseon is a one stop website for Search engine optimization, Onli
 
 Modifications in html:
 
-1. I replaced all the div class ="header" with semantic element <header>. 
-2. Replaced <span> with <mark> in header <h1>.
-3. replaced <div> with <nav> for the hyperlinks.
-4. replaced <div class="hero"> with <figure>.
-5. added semantic element <main> as it contains the main content of the webpage.
+1. I replaced all the div class ="header" with semantic element < header >. 
+2. Replaced < span > with < mark > in header < h1 >.
+3. replaced < div > with < nav > for the hyperlinks.
+4. replaced < div class="hero" > with < figure >.
+5. added semantic element < main > as it contains the main content of the webpage.
 6. I divided the main contents of the webpage into 3 sections
-        <section1 :search engine optimization>
-        <section2: online reputation-management>
-        <section3:social media marketing>
-7. replaced the <div class="benefits"> with <aside> because it provides an extra information for the website.
-8. replaced <div class="footer"> with <footer>
+        < section1 :search engine optimization >
+        < section2: online reputation-management >
+        < section3:social media marketing >
+7. replaced the < div class="benefits" > with < aside > because it provides an extra information for the website.
+8. replaced < div class="footer" > with < footer >
 
 Modifications of css:
 1. replaced classes of divs with header ,sections,classes of sections,figure,aside,footer.
